@@ -5,8 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Week8CalculatorEx"
         mc:Ignorable="d"
-        Title="MainWindow" Height="471" Width="800">
-    <StackPanel Margin="20,20,20,7">
+        Title="MainWindow" Height="500" Width="800">
+    <StackPanel Margin="20">
 
         <!-- Display Label -->
         <TextBlock x:Name="displayRes" Text="0" FontSize="48"
